@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="38" started-at="2017-09-30T01:30:57Z" finished-at="2017-09-30T01:30:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="38" started-at="2017-09-30T01:30:57Z" finished-at="2017-09-30T01:30:57Z">
+      <class name="implementinglinkedlist.TestLinkedList">
+        <test-method status="PASS" signature="test()[pri:0, instance:implementinglinkedlist.TestLinkedList@4de8b406]" name="test" duration-ms="11" started-at="2017-09-29T18:30:57Z" finished-at="2017-09-29T18:30:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- implementinglinkedlist.TestLinkedList -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
