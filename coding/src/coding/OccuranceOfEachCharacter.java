@@ -11,6 +11,6 @@ public class OccuranceOfEachCharacter {
 				count++;
 			}
 		}
-		System.out.println("The the occurance of character e is :" +count+ "times"); 
+		System.out.println("The the occurance of character s is :" +count+ "times"); 
 	}
 }

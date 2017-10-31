@@ -1,7 +1,7 @@
 package coding;
 
 import java.util.ArrayList;
-import java.util.Iterator;
+
 import java.util.LinkedList;
 import java.util.Vector;
 
@@ -21,7 +21,7 @@ public class ArrayListTest {
 		
 		
 		
-		Vector<String> v=new Vector();
+		Vector<String> v=new Vector<String>();
 		int capacity=v.capacity();
 		System.out.println(capacity);
 		

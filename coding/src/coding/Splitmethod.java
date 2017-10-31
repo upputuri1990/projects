@@ -1,6 +1,6 @@
 package coding;
 
-import java.util.Iterator;
+
 
 public class Splitmethod {
 	public static void main(String[] args) {

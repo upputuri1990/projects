@@ -8,6 +8,7 @@ public class SecondLargestElement {
 		int secondMax=a[0];
 		 
 		int index=0;
+		@SuppressWarnings("unused")
 		int secondMaxIndex=0;
 		
 		for (int i = 0; i < a.length; i++) {

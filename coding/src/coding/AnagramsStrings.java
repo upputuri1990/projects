@@ -1,21 +1,12 @@
 package coding;
 
-import java.util.Iterator;
-import java.util.LinkedList;
+
 
 public class AnagramsStrings {
 	public static void main(String[] args) {
-	LinkedList list=new LinkedList<>();
-	list.add(10);
-	list.addFirst(5);
-	Iterator itrator=list.iterator();
-	while (itrator.hasNext()) {
-		int data = (int) itrator.next();
-		System.out.println(data);
-		
-	}
+	
 		String s1="listen";
-		String s2="silent";
+		String s2="silence";
 		char[] c1=s1.toCharArray();
 		char[] c2=s2.toCharArray();
 		for (int i = 0; i < c1.length; i++) {

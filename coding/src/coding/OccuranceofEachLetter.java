@@ -13,7 +13,7 @@ public class OccuranceofEachLetter {
 			}
 			
 		}
-		System.out.println("occurance of letter e is  "+count +"times");
+		System.out.println("occurance of letter s is  "+count +"times");
 	}
 
 		}
