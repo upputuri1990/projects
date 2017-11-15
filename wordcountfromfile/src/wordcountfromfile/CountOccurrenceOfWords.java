@@ -1,5 +1,6 @@
 package wordcountfromfile;
 
+import java.util.HashMap;
 import java.util.Map;
 import java.util.Map.Entry;
 import java.util.Set;
@@ -13,7 +14,7 @@ public class CountOccurrenceOfWords {
 		// Create a TreeMap to hold words as key and count as value
 		         
 		
-		Map<String, Integer> map = new TreeMap<>();
+		Map<String, Integer> map = new HashMap<>();
 		String[] words = text.split("[ \n\t\r.,;:!?(){]"); 
 		for (int i = 0; i < words.length; i++) {
 		  String key = words[i].toLowerCase();
